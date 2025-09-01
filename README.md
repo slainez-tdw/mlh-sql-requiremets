@@ -310,9 +310,3 @@
 6. **Transparencia de ejecución**: Antes de cualquier error, el sistema debe **resumir el endpoint/consulta** e **informar parámetros recibidos**.
 
 ---
-
-Si quieres, en el siguiente paso te dejo:
-
-* Un **contrato de request/response** para el Lambda (tipos TS incluidos).
-* **SQL esqueleto** para cada HU (agregaciones, group by y cálculos de share).
-* Casos límite (sin ventas, filtros vacíos, artículo no pertenece a categoría, etc.).
